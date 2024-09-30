@@ -6,6 +6,8 @@ public class DemoPage {
 		// TODO Auto-generated method stub
  int i =40;
  System.out.println(i);
+ int j=40;
+ System.out.println(i+j);
 	}
 
 }
